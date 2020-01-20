@@ -1,1 +1,2 @@
-# Buku_Proyek3
+# Template
+Template untuk buku informatika standar
