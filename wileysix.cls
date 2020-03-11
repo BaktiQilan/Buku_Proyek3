@@ -1843,24 +1843,25 @@ D R A F T\hfill\today, \realtime\hfill D R A F T\global\titlefalse\vss}}
 \vskip6.5pt
 
 {\locfont Penulis:}\\
-Rolly Maulana Awangga
+Nisa Hanum Harani. S.Kom., M.T.\\
+Arrizal Furqona Gifary\\
+Bakti Qilan Mufid\\
 \vskip6.5pt
 
-ISBN : 978-602-53897-0-2
+ISBN : .................
 \vskip6.5pt
 
 {\locfont Editor:}\\
-M. Yusril Helmi Setyawan
+Bakti Qilan Mufid
 \vskip6.5pt
 
 {\locfont Penyunting:}\\
-Syafrial Fachrie Pane\\
-Khaera Tunnisa\\ 
-Diana Asri Wijayanti\\
+Arrizal Furqona Gifary\\
+Bakti Qilan Mufid\\
 \vskip6.5pt
 
 {\locfont Desain sampul dan Tata letak:}\\
-Deza Martha Akbar
+Bakti Qilan Mufid
 \vskip6.5pt
 
 {\locfont Penerbit:}\\

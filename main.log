@@ -1,0 +1,3996 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.28)  10 MAR 2020 17:34
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (wileysix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen134
+\SpaceAboveChapterNumber=\dimen135
+\savefootnotenumber=\count167
+\ftnum=\count168
+\saveftnum=\count169
+\c@chapapp=\count170
+\c@part=\count171
+\c@chapter=\count172
+\c@section=\count173
+\c@subsection=\count174
+\c@subsubsection=\count175
+\c@paragraph=\count176
+\c@subparagraph=\count177
+\c@figure=\count178
+\c@table=\count179
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\partskip=\skip49
+\tabandfigskip=\skip50
+\footnum=\count180
+\savefootnum=\count181
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip51
+\timing=\count182
+\hourcount=\count183
+\oldtime=\count184
+\probcount=\count185
+\subprobcount=\count186
+\c@subproblem=\count187
+\c@subproblem=\count188
+\widthofcropmarks=\dimen136
+\raisetopcropmarks=\dimen137
+\raisebottomcropmarks=\dimen138
+\movecropmarksright=\dimen139
+\c@theorem=\count189
+\c@appfootnote=\count190
+\slugwidth=\dimen140
+\slugheight=\dimen141
+\slugdepth=\dimen142
+\c@exampnum=\count191
+\c@algo=\count192
+\c@algorithm=\count193
+\chapskip=\dimen143
+\chapheight=\dimen144
+\authorskip=\dimen145
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count194
+\lst@gtempboxa=\box45
+\lst@token=\toks15
+\lst@length=\count195
+\lst@currlwidth=\dimen148
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen151
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box46
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks16
+\float@box=\box47
+\@float@everytoks=\toks17
+\@floatcapt=\box48
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box49
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 126.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 126.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count269
+\l__pdf_internal_box=\box50
+)
+(main.aux
+
+LaTeX Warning: Label `tabel:nonlin' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+31.
+ ("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen152
+\scratchbox=\box51
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen153
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count276
+LaTeX Info: Redefining \celsius on input line 131.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 131
+.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 131.
+Package gensymb Info: Using \Omega for \ohm on input line 131.
+
+Package gensymb Warning: Not defining \micro.
+
+
+Overfull \hbox (32.79396pt too wide) in paragraph at lines 150--150
+\subtitlefont PEMBUATAN AP-LIKASI BANK SAM-PAH 
+ []
+
+[1{C:/Users/Bakti Qilan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+Overfull \hbox (0.69118pt too wide) in paragraph at lines 152--152
+[]\titlefont PEMBUATAN AP-LIKASI BANK
+ []
+
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 152.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+[3 <./kreatiflogo.png>] (info/copyrightpage.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+[4] [5
+
+] (info/contributors.tex) [5] [6
+
+] (main.toc) [7] [8
+
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9]
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+Overfull \hbox (5.3801pt too wide) in paragraph at lines 151--151
+ [][] []\tocfonts Kodingan pada file bank-sampah/application/views/petugas []  
+
+ []
+
+
+Overfull \hbox (3.7601pt too wide) in paragraph at lines 154--154
+ [][] []\tocfonts Kodingan pada file bank-sampah/application/views/request []  
+
+ []
+
+
+Overfull \hbox (11.29008pt too wide) in paragraph at lines 156--156
+ [][] []\tocfonts Kodingan pada file bank-sampah/application/views/tabungan [] 
+ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \hbox (13.2101pt too wide) in paragraph at lines 159--159
+ [][] []\tocfonts Kodingan pada file bank-sampah/application/views/templates []
+  
+ []
+
+
+Overfull \hbox (10.9801pt too wide) in paragraph at lines 171--171
+ [][] []\tocfonts Kodingan pada file bank-sampah/application/views/welcome []  
+
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12] (main.lof [13
+
+]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17] [18
+
+] (main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [19] [20
+
+] (main.lol
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22])
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23] [24
+
+] (info/foreword.tex) [25] [26
+
+] (info/preface.tex) [27] [28
+
+]
+(info/acknowledgments.tex [29]) [30
+
+] (info/acronyms.tex)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+89.
+
+("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[31] [32
+
+] (info/glossary.tex) [33] [34
+
+] (info/symbols.tex) [35] [36
+
+]
+(info/introduction.tex
+
+LaTeX Warning: Citation `awangga2018sampeu' on page xxxvii undefined on input l
+ine 13.
+
+) [37] [38
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 205.
+(chapters/1.tex
+Overfull \hbox (5.84741pt too wide) in paragraph at lines 2--3
+\OT1/ptm/m/n/10 hingga menim-bulkan per-masala-han degradasi lingkun-gan pada k
+e-hidu-pan masyarakat.
+ []
+
+
+Overfull \hbox (3.8568pt too wide) in paragraph at lines 4--6
+[]\OT1/ptm/m/n/10 Pengelolaan sam-pah adalah kegiatan yang sis-tem-a-tis,menyel
+uruh, dan berkesinam-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+Overfull \hbox (1.47847pt too wide) in paragraph at lines 9--10
+\OT1/ptm/m/n/10 Undang-Undang No. 32 Tahun 2009 ten-tang Per-lin-dun-gan dan Pe
+n-gelo-laan Lingkun-
+ []
+
+
+Overfull \hbox (2.00734pt too wide) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/10 Dalam per-an-can-gan ap-likasi ini meng-gu-nakan se-buah kera
+ngka kerja yaitu codeig-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (2.24745pt too wide) in paragraph at lines 14--15
+\OT1/ptm/m/n/10 undang yang ada di In-done-sia, bank memi-liki mak-nanya tersen
+diri. Menu-rut Undang-
+ []
+
+
+Overfull \hbox (1.1774pt too wide) in paragraph at lines 14--15
+\OT1/ptm/m/n/10 menghim-pun dana dari masyarakat dalam ben-tuk sim-panan, dan m
+enyalurkan kepada
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Overfull \hbox (0.54793pt too wide) in paragraph at lines 31--32
+\OT1/ptm/m/n/10 penan-ganan sam-pah yang baik adalah menu-runkan 90% angka ke-h
+idu-pan lalat menu-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]
+Overfull \hbox (0.32753pt too wide) in paragraph at lines 36--37
+\OT1/ptm/m/n/10 bankkan yang di-lakukan oleh petu-gas. Penyetor atau nasabah ia
+lah warga masyarakat
+ []
+
+
+Overfull \hbox (0.9768pt too wide) in paragraph at lines 44--45
+\OT1/ptm/m/n/10 dalam men-gelola sam-pah juga men-da-p-atkan tam-ba-han pe-ma-s
+ukan dari sampah- sam-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+Overfull \hbox (3.96745pt too wide) in paragraph at lines 89--90
+[]\OT1/ptm/m/n/10 Bank sam-pah bisa berkem-bang men-jadi sum-ber ba-han baku un
+-tuk in-dus-tri rumah
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7] [8
+
+]
+Bab 2.
+(chapters/2.tex
+<figures/web/php.png, id=165, 1284.8pt x 693.59125pt>
+File: figures/web/php.png Graphic file (type png)
+<use figures/web/php.png>
+Package pdftex.def Info: figures/web/php.png  used on input line 4.
+(pdftex.def)             Requested size: 170.71652pt x 92.15968pt.
+
+Overfull \hbox (29.90788pt too wide) in paragraph at lines 8--9
+\OT1/ptm/m/n/10 adalah su-atu kom-po-nen yang sal-ing berhubun-gan yang bertu-j
+uan mengumpulkan,mengubah,
+ []
+
+[9 <./figures/web/php.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+Overfull \hbox (4.37772pt too wide) in paragraph at lines 68--70
+\OT1/ptm/m/n/10 sis-tem ter-buka adalah sis-tem yang berhubun-gan dan ter-pen-g
+aruh den-gan lingkun-
+ []
+
+
+Overfull \hbox (0.4963pt too wide) in paragraph at lines 75--76
+\OT1/ptm/m/n/10 di-dalam mendefin-isikan sis-tem yaitu pen-dekatan pada prose-d
+ur di-mana sis-tem adalah
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Overfull \hbox (1.36682pt too wide) in paragraph at lines 98--99
+\OT1/ptm/m/n/10 man-a-jer meren-canakan serta men-gen-da-likan op-erasi yang te
+lah ada. Kom-puter mena-
+ []
+
+<figures/integrasi.jpg, id=180, 225.84375pt x 225.84375pt>
+File: figures/integrasi.jpg Graphic file (type jpg)
+<use figures/integrasi.jpg>
+Package pdftex.def Info: figures/integrasi.jpg  used on input line 112.
+(pdftex.def)             Requested size: 128.0374pt x 128.04305pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Overfull \hbox (7.12717pt too wide) in paragraph at lines 120--121
+\OT1/ptm/m/n/10 ter-pisah den-gan tu-juan se-buah sum-ber daya in-for-masi yang
+ lebih kom-plit dan menyelu-
+ []
+
+<figures/php2.png, id=184, 578.16pt x 385.44pt>
+File: figures/php2.png Graphic file (type png)
+<use figures/php2.png>
+Package pdftex.def Info: figures/php2.png  used on input line 124.
+(pdftex.def)             Requested size: 128.0374pt x 85.35579pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14 <./figures/integrasi.jpg> <./figures/php2.png>]
+Overfull \hbox (0.98744pt too wide) in paragraph at lines 134--135
+\OT1/ptm/m/n/10 nya PH-P/FI. Den-gan per-il-isan kode sum-ber ini men-jadi sum-
+ber ter-buka, maka banyak
+ []
+
+<figures/web/rasmus.jpg, id=189, 674.52pt x 379.4175pt>
+File: figures/web/rasmus.jpg Graphic file (type jpg)
+<use figures/web/rasmus.jpg>
+Package pdftex.def Info: figures/web/rasmus.jpg  used on input line 149.
+(pdftex.def)             Requested size: 170.71652pt x 96.0236pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15 <./figures/web/rasmus.jpg>]
+<figures/web/popularphpsites.jpg, id=193, 490.08093pt x 192.72pt>
+File: figures/web/popularphpsites.jpg Graphic file (type jpg)
+<use figures/web/popularphpsites.jpg>
+Package pdftex.def Info: figures/web/popularphpsites.jpg  used on input line 16
+7.
+(pdftex.def)             Requested size: 227.62204pt x 89.508pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+
+ []
+
+<figures/web/contohkodingphp.png, id=194, 140.77594pt x 43.66313pt>
+File: figures/web/contohkodingphp.png Graphic file (type png)
+<use figures/web/contohkodingphp.png>
+Package pdftex.def Info: figures/web/contohkodingphp.png  used on input line 17
+5.
+(pdftex.def)             Requested size: 170.71652pt x 52.95313pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--178
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16 <./figures/web/popularphpsites.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Overfull \hbox (0.61719pt too wide) in paragraph at lines 185--186
+[]\OT1/ptm/m/n/10 PHP adalah ba-hasa open source yang da-pat di-gu-nakan di ber
+ba-gai mesin (Linux,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+<figures/html.jpg, id=199, 1003.75pt x 669.50125pt>
+File: figures/html.jpg Graphic file (type jpg)
+<use figures/html.jpg>
+Package pdftex.def Info: figures/html.jpg  used on input line 209.
+(pdftex.def)             Requested size: 284.52756pt x 189.77805pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17 <./figures/web/contohkodingphp.png>]
+Overfull \hbox (17.10654pt too wide) in paragraph at lines 217--219
+[]\OT1/ptm/m/n/10 Supaya da-pat meng-hasilkan tampi-lan wu-jud yang ter-in-te-g
+erasi Pem-for-matan hiperteks
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <./figures/html.jpg>]
+Overfull \hbox (4.59735pt too wide) in paragraph at lines 235--239
+\OT1/ptm/m/n/10 HTML (Hy-per-Text Markup Lan-guage) adalah su-atu ba-hasa yang 
+meng-gu-nakan tanda-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+(src/coba.html
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 1
+.
+
+("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [19])
+<figures/web/phpframework.png, id=211, 903.375pt x 570.13pt>
+File: figures/web/phpframework.png Graphic file (type png)
+<use figures/web/phpframework.png>
+Package pdftex.def Info: figures/web/phpframework.png  used on input line 266.
+(pdftex.def)             Requested size: 284.52756pt x 179.5658pt.
+
+Overfull \hbox (0.28648pt too wide) in paragraph at lines 272--273
+[]\OT1/ptm/m/n/10 Namun perlu dike-tahui, bahwa PHP Frame-work memi-liki perbe-
+daan-nya tersendiri
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20 <./figures/web/phpframework.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21]
+Overfull \hbox (2.94724pt too wide) in paragraph at lines 320--321
+\OT1/ptm/m/n/10 Win-dows, Linux, FreeBSD, Mac Os X Server, So-laris, Amiga, dan
+ masih banyak
+ []
+
+
+Overfull \hbox (1.05655pt too wide) in paragraph at lines 329--330
+[]\OT1/ptm/m/n/10 Lokalisasi. MySQL da-pat mende-teksi pe-san ke-sala-han pada 
+klien den-gan meng-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22]
+Overfull \hbox (5.92581pt too wide) in paragraph at lines 332--333
+[]\OT1/ptm/m/n/10 Struktur tabel. MySQL memi-liki struk-tur tabel yang lebih fl
+ek-si-bel dalam menan-
+ []
+
+<figures/codeigniter.png, id=223, 612.2875pt x 501.875pt>
+File: figures/codeigniter.png Graphic file (type png)
+<use figures/codeigniter.png>
+Package pdftex.def Info: figures/codeigniter.png  used on input line 338.
+(pdftex.def)             Requested size: 128.0374pt x 104.94504pt.
+<figures/web/mvc.png, id=224, 276.28218pt x 257.46187pt>
+File: figures/web/mvc.png Graphic file (type png)
+<use figures/web/mvc.png>
+Package pdftex.def Info: figures/web/mvc.png  used on input line 347.
+(pdftex.def)             Requested size: 227.62204pt x 212.11401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--350
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23 <./figures/codeigniter.png>]
+Overfull \hbox (13.43741pt too wide) in paragraph at lines 351--352
+[]\OT1/ptm/m/n/10 Model View Con-troller meru-pakan su-atu kon-sep yang cukup p
+op-uler dalam mengem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <./figures/web/mvc.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+<figures/web/Xampp.png, id=232, 770.88pt x 497.60907pt>
+File: figures/web/Xampp.png Graphic file (type png)
+<use figures/web/Xampp.png>
+Package pdftex.def Info: figures/web/Xampp.png  used on input line 379.
+(pdftex.def)             Requested size: 227.62204pt x 146.93007pt.
+<figures/web/tampilanwebxampp.png, id=233, 998.9822pt x 481.04718pt>
+File: figures/web/tampilanwebxampp.png Graphic file (type png)
+<use figures/web/tampilanwebxampp.png>
+Package pdftex.def Info: figures/web/tampilanwebxampp.png  used on input line 3
+86.
+(pdftex.def)             Requested size: 227.62204pt x 109.60355pt.
+
+Overfull \hbox (0.28685pt too wide) in paragraph at lines 384--389
+[]\OT1/ptm/m/n/10 Kemudian in-stall Xampp(untuk lebih je-las silahkan buka bab 
+In-sta-lasi dan peng-
+ []
+
+<figures/web/websitecodeigniter.png, id=234, 998.9822pt x 481.04718pt>
+File: figures/web/websitecodeigniter.png Graphic file (type png)
+<use figures/web/websitecodeigniter.png>
+Package pdftex.def Info: figures/web/websitecodeigniter.png  used on input line
+ 393.
+(pdftex.def)             Requested size: 227.62204pt x 109.60355pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25 <./figures/web/Xampp.png> <./figures/web/tampilanwebxampp.png>]
+<figures/web/ekstrakcodeigniter.png, id=240, 453.94594pt x 45.92157pt>
+File: figures/web/ekstrakcodeigniter.png Graphic file (type png)
+<use figures/web/ekstrakcodeigniter.png>
+Package pdftex.def Info: figures/web/ekstrakcodeigniter.png  used on input line
+ 401.
+(pdftex.def)             Requested size: 227.62204pt x 23.02658pt.
+<figures/web/hasilekstrakcodeigniter.png, id=241, 473.51906pt x 171.64125pt>
+File: figures/web/hasilekstrakcodeigniter.png Graphic file (type png)
+<use figures/web/hasilekstrakcodeigniter.png>
+Package pdftex.def Info: figures/web/hasilekstrakcodeigniter.png  used on input
+ line 409.
+(pdftex.def)             Requested size: 227.62204pt x 82.50732pt.
+<figures/instalasi/ci1.jpg, id=242, 355.7655pt x 199.728pt>
+File: figures/instalasi/ci1.jpg Graphic file (type jpg)
+<use figures/instalasi/ci1.jpg>
+Package pdftex.def Info: figures/instalasi/ci1.jpg  used on input line 416.
+(pdftex.def)             Requested size: 227.62204pt x 127.79195pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26 <./figures/web/websitecodeigniter.png> <./figures/web/ekstrakcodeigniter.pn
+g> <./figures/web/hasilekstrakcodeigniter.png>]
+<figures/instalasi/ci2.jpg, id=249, 502.12593pt x 324.46219pt>
+File: figures/instalasi/ci2.jpg Graphic file (type jpg)
+<use figures/instalasi/ci2.jpg>
+Package pdftex.def Info: figures/instalasi/ci2.jpg  used on input line 425.
+(pdftex.def)             Requested size: 227.62204pt x 147.08592pt.
+<figures/instalasi/ci3.jpg, id=250, 963.6pt x 541.27219pt>
+File: figures/instalasi/ci3.jpg Graphic file (type jpg)
+<use figures/instalasi/ci3.jpg>
+Package pdftex.def Info: figures/instalasi/ci3.jpg  used on input line 432.
+(pdftex.def)             Requested size: 227.62204pt x 127.85971pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/instalasi/ci1.jpg> <./figures/instalasi/ci2.jpg>]
+<figures/instalasi/ci4.jpg, id=254, 130.98938pt x 187.45032pt>
+File: figures/instalasi/ci4.jpg Graphic file (type jpg)
+<use figures/instalasi/ci4.jpg>
+Package pdftex.def Info: figures/instalasi/ci4.jpg  used on input line 441.
+(pdftex.def)             Requested size: 227.62204pt x 325.74615pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/instalasi/ci3.jpg>]
+<figures/instalasi/ci5.jpg, id=259, 193.47281pt x 255.95625pt>
+File: figures/instalasi/ci5.jpg Graphic file (type jpg)
+<use figures/instalasi/ci5.jpg>
+Package pdftex.def Info: figures/instalasi/ci5.jpg  used on input line 450.
+(pdftex.def)             Requested size: 227.62204pt x 301.13918pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29 <./figures/instalasi/ci4.jpg>]
+<figures/instalasi/ci6.jpg, id=263, 116.68594pt x 40.65187pt>
+File: figures/instalasi/ci6.jpg Graphic file (type jpg)
+<use figures/instalasi/ci6.jpg>
+Package pdftex.def Info: figures/instalasi/ci6.jpg  used on input line 458.
+(pdftex.def)             Requested size: 227.62204pt x 79.30989pt.
+<figures/instalasi/ci7.jpg, id=264, 168.63pt x 268.00125pt>
+File: figures/instalasi/ci7.jpg Graphic file (type jpg)
+<use figures/instalasi/ci7.jpg>
+Package pdftex.def Info: figures/instalasi/ci7.jpg  used on input line 465.
+(pdftex.def)             Requested size: 227.62204pt x 361.76561pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30 <./figures/instalasi/ci5.jpg> <./figures/instalasi/ci6.jpg>]
+Overfull \hbox (2.79823pt too wide) in paragraph at lines 476--477
+[]\OT1/ptm/m/n/10 Hooks.php, meru-pakan su-atu file yang berisi kon-fig-urasi h
+ooks. 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[31 <./figures/instalasi/ci7.jpg>]
+Overfull \hbox (0.67767pt too wide) in paragraph at lines 479--480
+[]\OT1/ptm/m/n/10 Migration.php, meru-pakan su-atu file yang berisi un-tuk mi-g
+rasi. 
+ []
+
+
+Overfull \hbox (0.88805pt too wide) in paragraph at lines 482--483
+[]\OT1/ptm/m/n/10 Routes.php, meru-pakan su-atu file yang di-gu-nakan se-ba-gai
+ tem-
+ []
+
+<figures/instalasi/ci17.jpg, id=271, 119.69719pt x 54.2025pt>
+File: figures/instalasi/ci17.jpg Graphic file (type jpg)
+<use figures/instalasi/ci17.jpg>
+Package pdftex.def Info: figures/instalasi/ci17.jpg  used on input line 489.
+(pdftex.def)             Requested size: 227.62204pt x 103.08174pt.
+<figures/instalasi/ci18.jpg, id=272, 121.20282pt x 38.39343pt>
+File: figures/instalasi/ci18.jpg Graphic file (type jpg)
+<use figures/instalasi/ci18.jpg>
+Package pdftex.def Info: figures/instalasi/ci18.jpg  used on input line 496.
+(pdftex.def)             Requested size: 227.62204pt x 72.11226pt.
+<figures/instalasi/ci19.jpg, id=273, 118.19156pt x 37.64063pt>
+File: figures/instalasi/ci19.jpg Graphic file (type jpg)
+<use figures/instalasi/ci19.jpg>
+Package pdftex.def Info: figures/instalasi/ci19.jpg  used on input line 503.
+(pdftex.def)             Requested size: 227.62204pt x 72.49313pt.
+
+Overfull \hbox (3.76768pt too wide) in paragraph at lines 501--506
+[]\OT1/ptm/m/n/10 Folder Helpers, meru-pakan su-atu folder adalah fungsi-fungsi
+ helper. 
+ []
+
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[32 <./figures/instalasi/ci17.jpg> <./figures/instalasi/ci18.jpg>]
+<figures/instalasi/ci20.jpg, id=277, 117.43875pt x 40.65187pt>
+File: figures/instalasi/ci20.jpg Graphic file (type jpg)
+<use figures/instalasi/ci20.jpg>
+Package pdftex.def Info: figures/instalasi/ci20.jpg  used on input line 510.
+(pdftex.def)             Requested size: 227.62204pt x 78.79256pt.
+<figures/instalasi/ci21.jpg, id=278, 119.69719pt x 55.70813pt>
+File: figures/instalasi/ci21.jpg Graphic file (type jpg)
+<use figures/instalasi/ci21.jpg>
+Package pdftex.def Info: figures/instalasi/ci21.jpg  used on input line 517.
+(pdftex.def)             Requested size: 227.62204pt x 105.94511pt.
+<figures/instalasi/ci22.jpg, id=279, 120.45pt x 39.14626pt>
+File: figures/instalasi/ci22.jpg Graphic file (type jpg)
+<use figures/instalasi/ci22.jpg>
+Package pdftex.def Info: figures/instalasi/ci22.jpg  used on input line 524.
+(pdftex.def)             Requested size: 227.62204pt x 73.98439pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[33 <./figures/instalasi/ci19.jpg> <./figures/instalasi/ci20.jpg> <./figures/in
+stalasi/ci21.jpg>]
+<figures/instalasi/ci23.jpg, id=283, 117.43875pt x 39.14626pt>
+File: figures/instalasi/ci23.jpg Graphic file (type jpg)
+<use figures/instalasi/ci23.jpg>
+Package pdftex.def Info: figures/instalasi/ci23.jpg  used on input line 531.
+(pdftex.def)             Requested size: 227.62204pt x 75.87433pt.
+<figures/instalasi/ci24.jpg, id=284, 109.1578pt x 39.14626pt>
+File: figures/instalasi/ci24.jpg Graphic file (type jpg)
+<use figures/instalasi/ci24.jpg>
+Package pdftex.def Info: figures/instalasi/ci24.jpg  used on input line 538.
+(pdftex.def)             Requested size: 227.62204pt x 81.63072pt.
+<figures/instalasi/ci25.jpg, id=285, 109.1578pt x 39.89906pt>
+File: figures/instalasi/ci25.jpg Graphic file (type jpg)
+<use figures/instalasi/ci25.jpg>
+Package pdftex.def Info: figures/instalasi/ci25.jpg  used on input line 545.
+(pdftex.def)             Requested size: 227.62204pt x 83.20052pt.
+<figures/instalasi/ci26.jpg, id=286, 121.95563pt x 70.01157pt>
+File: figures/instalasi/ci26.jpg Graphic file (type jpg)
+<use figures/instalasi/ci26.jpg>
+Package pdftex.def Info: figures/instalasi/ci26.jpg  used on input line 552.
+(pdftex.def)             Requested size: 227.62204pt x 130.67416pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34 <./figures/instalasi/ci22.jpg> <./figures/instalasi/ci23.jpg> <./figures/in
+stalasi/ci24.jpg> <./figures/instalasi/ci25.jpg>]
+<figures/instalasi/ci8-1.jpg, id=291, 124.96687pt x 152.82094pt>
+File: figures/instalasi/ci8-1.jpg Graphic file (type jpg)
+<use figures/instalasi/ci8-1.jpg>
+Package pdftex.def Info: figures/instalasi/ci8-1.jpg  used on input line 560.
+(pdftex.def)             Requested size: 227.62204pt x 278.38634pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35 <./figures/instalasi/ci26.jpg>]
+<figures/instalasi/ci9-1.jpg, id=295, 122.70844pt x 365.86688pt>
+File: figures/instalasi/ci9-1.jpg Graphic file (type jpg)
+<use figures/instalasi/ci9-1.jpg>
+Package pdftex.def Info: figures/instalasi/ci9-1.jpg  used on input line 567.
+(pdftex.def)             Requested size: 142.26378pt x 424.18814pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[36 <./figures/instalasi/ci8-1.jpg>]
+<figures/instalasi/ci10.jpg, id=299, 82.80937pt x 18.82031pt>
+File: figures/instalasi/ci10.jpg Graphic file (type jpg)
+<use figures/instalasi/ci10.jpg>
+Package pdftex.def Info: figures/instalasi/ci10.jpg  used on input line 574.
+(pdftex.def)             Requested size: 227.62204pt x 51.73988pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37 <./figures/instalasi/ci9-1.jpg>]
+<figures/instalasi/ci11.jpg, id=303, 70.76437pt x 21.07875pt>
+File: figures/instalasi/ci11.jpg Graphic file (type jpg)
+<use figures/instalasi/ci11.jpg>
+Package pdftex.def Info: figures/instalasi/ci11.jpg  used on input line 581.
+(pdftex.def)             Requested size: 227.62204pt x 67.81578pt.
+<figures/instalasi/ci12.jpg, id=304, 88.83188pt x 20.32594pt>
+File: figures/instalasi/ci12.jpg Graphic file (type jpg)
+<use figures/instalasi/ci12.jpg>
+Package pdftex.def Info: figures/instalasi/ci12.jpg  used on input line 588.
+(pdftex.def)             Requested size: 227.62204pt x 52.08475pt.
+<figures/instalasi/ci13.jpg, id=305, 90.3375pt x 20.32594pt>
+File: figures/instalasi/ci13.jpg Graphic file (type jpg)
+<use figures/instalasi/ci13.jpg>
+Package pdftex.def Info: figures/instalasi/ci13.jpg  used on input line 595.
+(pdftex.def)             Requested size: 199.16928pt x 44.81735pt.
+<figures/instalasi/ci14.jpg, id=306, 63.23625pt x 18.0675pt>
+File: figures/instalasi/ci14.jpg Graphic file (type jpg)
+<use figures/instalasi/ci14.jpg>
+Package pdftex.def Info: figures/instalasi/ci14.jpg  used on input line 602.
+(pdftex.def)             Requested size: 170.71652pt x 48.77734pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38 <./figures/instalasi/ci10.jpg> <./figures/instalasi/ci11.jpg> <./figures/in
+stalasi/ci12.jpg> <./figures/instalasi/ci13.jpg>]
+<figures/instalasi/ci15.jpg, id=310, 72.27pt x 21.83156pt>
+File: figures/instalasi/ci15.jpg Graphic file (type jpg)
+<use figures/instalasi/ci15.jpg>
+Package pdftex.def Info: figures/instalasi/ci15.jpg  used on input line 609.
+(pdftex.def)             Requested size: 170.71652pt x 51.5733pt.
+<figures/instalasi/ci16.jpg, id=311, 80.55093pt x 19.57312pt>
+File: figures/instalasi/ci16.jpg Graphic file (type jpg)
+<use figures/instalasi/ci16.jpg>
+Package pdftex.def Info: figures/instalasi/ci16.jpg  used on input line 616.
+(pdftex.def)             Requested size: 227.62204pt x 55.31235pt.
+<figures/instalasi/ci27-1.jpg, id=312, 119.69719pt x 270.25969pt>
+File: figures/instalasi/ci27-1.jpg Graphic file (type jpg)
+<use figures/instalasi/ci27-1.jpg>
+Package pdftex.def Info: figures/instalasi/ci27-1.jpg  used on input line 627.
+(pdftex.def)             Requested size: 227.62204pt x 513.97708pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39 <./figures/instalasi/ci14.jpg> <./figures/instalasi/ci15.jpg> <./figures/in
+stalasi/ci16.jpg>]
+<figures/instalasi/ci28.jpg, id=316, 453.19313pt x 198.7425pt>
+File: figures/instalasi/ci28.jpg Graphic file (type jpg)
+<use figures/instalasi/ci28.jpg>
+Package pdftex.def Info: figures/instalasi/ci28.jpg  used on input line 636.
+(pdftex.def)             Requested size: 227.62204pt x 99.81981pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[40 <./figures/instalasi/ci27-1.jpg>]
+<figures/instalasi/ci29.jpg, id=321, 204.01219pt x 30.86531pt>
+File: figures/instalasi/ci29.jpg Graphic file (type jpg)
+<use figures/instalasi/ci29.jpg>
+Package pdftex.def Info: figures/instalasi/ci29.jpg  used on input line 644.
+(pdftex.def)             Requested size: 227.62204pt x 34.4389pt.
+<figures/instalasi/ci30.jpg, id=322, 267.24844pt x 25.59563pt>
+File: figures/instalasi/ci30.jpg Graphic file (type jpg)
+<use figures/instalasi/ci30.jpg>
+Package pdftex.def Info: figures/instalasi/ci30.jpg  used on input line 650.
+(pdftex.def)             Requested size: 227.62204pt x 21.80128pt.
+<figures/instalasi/ci31.jpg, id=323, 189.70876pt x 23.33719pt>
+File: figures/instalasi/ci31.jpg Graphic file (type jpg)
+<use figures/instalasi/ci31.jpg>
+Package pdftex.def Info: figures/instalasi/ci31.jpg  used on input line 657.
+(pdftex.def)             Requested size: 227.62204pt x 28.0016pt.
+
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41 <./figures/instalasi/ci28.jpg> <./figures/instalasi/ci29.jpg> <./figures/in
+stalasi/ci30.jpg>]
+<figures/instalasi/ci32.jpg, id=327, 219.06844pt x 25.59563pt>
+File: figures/instalasi/ci32.jpg Graphic file (type jpg)
+<use figures/instalasi/ci32.jpg>
+Package pdftex.def Info: figures/instalasi/ci32.jpg  used on input line 663.
+(pdftex.def)             Requested size: 227.62204pt x 26.59537pt.
+<figures/instalasi/ci33.jpg, id=328, 160.34906pt x 27.85406pt>
+File: figures/instalasi/ci33.jpg Graphic file (type jpg)
+<use figures/instalasi/ci33.jpg>
+Package pdftex.def Info: figures/instalasi/ci33.jpg  used on input line 675.
+(pdftex.def)             Requested size: 227.62204pt x 39.5411pt.
+<figures/instalasi/ci34.jpg, id=329, 313.17pt x 26.34843pt>
+File: figures/instalasi/ci34.jpg Graphic file (type jpg)
+<use figures/instalasi/ci34.jpg>
+Package pdftex.def Info: figures/instalasi/ci34.jpg  used on input line 681.
+(pdftex.def)             Requested size: 227.62204pt x 19.15137pt.
+<figures/instalasi/ci35.jpg, id=330, 399.74344pt x 195.73125pt>
+File: figures/instalasi/ci35.jpg Graphic file (type jpg)
+<use figures/instalasi/ci35.jpg>
+Package pdftex.def Info: figures/instalasi/ci35.jpg  used on input line 691.
+(pdftex.def)             Requested size: 227.62204pt x 111.45447pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42 <./figures/instalasi/ci31.jpg> <./figures/instalasi/ci32.jpg> <./figures/in
+stalasi/ci33.jpg> <./figures/instalasi/ci34.jpg>]
+<figures/instalasi/ci36.jpg, id=334, 389.20406pt x 351.56343pt>
+File: figures/instalasi/ci36.jpg Graphic file (type jpg)
+<use figures/instalasi/ci36.jpg>
+Package pdftex.def Info: figures/instalasi/ci36.jpg  used on input line 697.
+(pdftex.def)             Requested size: 227.62204pt x 205.61281pt.
+<figures/instalasi/ci37.jpg, id=335, 373.395pt x 356.0803pt>
+File: figures/instalasi/ci37.jpg Graphic file (type jpg)
+<use figures/instalasi/ci37.jpg>
+Package pdftex.def Info: figures/instalasi/ci37.jpg  used on input line 703.
+(pdftex.def)             Requested size: 227.62204pt x 217.0674pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43 <./figures/instalasi/ci35.jpg> <./figures/instalasi/ci36.jpg>]
+<figures/GambarAPI.png, id=339, 225.84375pt x 225.84375pt>
+File: figures/GambarAPI.png Graphic file (type png)
+<use figures/GambarAPI.png>
+Package pdftex.def Info: figures/GambarAPI.png  used on input line 712.
+(pdftex.def)             Requested size: 227.62204pt x 227.63515pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44 <./figures/instalasi/ci37.jpg> <./figures/GambarAPI.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
+
+ []
+
+
+Overfull \hbox (1.75648pt too wide) in paragraph at lines 735--736
+\OT1/ptm/m/n/10 lu-nak beror-i-en-tasi ob-jek dan pe-mod-e-lan de-sain. UML mem
+-bantu mem-o-d-elkan berba-
+ []
+
+<figures/usecase.jpg, id=344, 406.51875pt x 361.35pt>
+File: figures/usecase.jpg Graphic file (type jpg)
+<use figures/usecase.jpg>
+Package pdftex.def Info: figures/usecase.jpg  used on input line 743.
+(pdftex.def)             Requested size: 227.62204pt x 202.32704pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45]
+<figures/classdiagram.jpg, id=348, 557.83406pt x 466.74374pt>
+File: figures/classdiagram.jpg Graphic file (type jpg)
+<use figures/classdiagram.jpg>
+Package pdftex.def Info: figures/classdiagram.jpg  used on input line 752.
+(pdftex.def)             Requested size: 227.62204pt x 190.44743pt.
+<figures/sequence.jpg, id=349, 216.05719pt x 196.48407pt>
+File: figures/sequence.jpg Graphic file (type jpg)
+<use figures/sequence.jpg>
+Package pdftex.def Info: figures/sequence.jpg  used on input line 761.
+(pdftex.def)             Requested size: 227.62204pt x 207.0099pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[46 <./figures/usecase.jpg> <./figures/classdiagram.jpg>]
+<figures/activity.jpg, id=354, 307.90031pt x 323.70938pt>
+File: figures/activity.jpg Graphic file (type jpg)
+<use figures/activity.jpg>
+Package pdftex.def Info: figures/activity.jpg  used on input line 770.
+(pdftex.def)             Requested size: 227.62204pt x 239.31398pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47 <./figures/sequence.jpg>]
+<figures/db.jpg, id=358, 526.96875pt x 301.125pt>
+File: figures/db.jpg Graphic file (type jpg)
+<use figures/db.jpg>
+Package pdftex.def Info: figures/db.jpg  used on input line 777.
+(pdftex.def)             Requested size: 227.62204pt x 130.06935pt.
+<figures/db2.jpg, id=359, 117.43875pt x 192.72pt>
+File: figures/db2.jpg Graphic file (type jpg)
+<use figures/db2.jpg>
+Package pdftex.def Info: figures/db2.jpg  used on input line 783.
+(pdftex.def)             Requested size: 227.62204pt x 373.5352pt.
+
+Overfull \hbox (0.19633pt too wide) in paragraph at lines 781--786
+\OT1/ptm/m/n/10 pro-gram yang berisikan tabel, field, record, yang dis-e-limuti
+ den-gan DBMS (Database
+ []
+
+
+Underfull \vbox (badness 2894) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[48 <./figures/activity.jpg> <./figures/db.jpg>]
+Underfull \vbox (badness 8113) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[49 <./figures/db2.jpg>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[50]
+Overfull \hbox (6.81606pt too wide) in paragraph at lines 825--826
+[]\OT1/ptm/m/n/10 Masalah In-te-grasi (Ke-sat-uan) Ba-sis Data berisi file yang
+ sal-ing berkai-tan, masalah
+ []
+
+
+Overfull \hbox (5.9268pt too wide) in paragraph at lines 829--830
+[]\OT1/ptm/m/n/10 Berdasarkan dari ura-ian di atas da-pat dis-im-pulkan bahwa d
+atabase adalah sekumpu-
+ []
+
+<figures/css.png, id=369, 542.025pt x 286.06876pt>
+File: figures/css.png Graphic file (type png)
+<use figures/css.png>
+Package pdftex.def Info: figures/css.png  used on input line 833.
+(pdftex.def)             Requested size: 227.62204pt x 120.13495pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[51]
+Overfull \hbox (4.22762pt too wide) in paragraph at lines 839--840
+[]\OT1/ptm/m/n/10 Dengan adanya CSS, pro-gram-mer da-pat men-gontrol bagaimana 
+browser me-render
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Overfull \hbox (0.57574pt too wide) in paragraph at lines 841--842
+[]\OT1/ptm/m/n/10 Teknologi CSS mem-berikan fasil-i-tas un-tuk menen-tukan styl
+e (misal;spacing, mar-
+ []
+
+<figures/instalasi/xampp.jpg, id=373, 478.03593pt x 304.13625pt>
+File: figures/instalasi/xampp.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp.jpg>
+Package pdftex.def Info: figures/instalasi/xampp.jpg  used on input line 850.
+(pdftex.def)             Requested size: 227.62204pt x 144.81427pt.
+
+Overfull \hbox (37.22668pt too wide) in paragraph at lines 848--853
+[]\OT1/ptm/m/n/10 Download ap-likasi Xampp ter-baru , link : https://www.apache
+friends.org/download.html.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52 <./figures/css.png>]
+<figures/instalasi/xampp2.jpg, id=379, 373.395pt x 111.41624pt>
+File: figures/instalasi/xampp2.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp2.jpg>
+Package pdftex.def Info: figures/instalasi/xampp2.jpg  used on input line 857.
+(pdftex.def)             Requested size: 227.62204pt x 67.9196pt.
+<figures/instalasi/xampp3.jpg, id=380, 374.14781pt x 317.68687pt>
+File: figures/instalasi/xampp3.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp3.jpg>
+Package pdftex.def Info: figures/instalasi/xampp3.jpg  used on input line 864.
+(pdftex.def)             Requested size: 227.62204pt x 193.27486pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53 <./figures/instalasi/xampp.jpg> <./figures/instalasi/xampp2.jpg>]
+<figures/instalasi/xampp4.jpg, id=384, 376.40625pt x 319.94531pt>
+File: figures/instalasi/xampp4.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp4.jpg>
+Package pdftex.def Info: figures/instalasi/xampp4.jpg  used on input line 872.
+(pdftex.def)             Requested size: 227.62204pt x 193.48207pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54 <./figures/instalasi/xampp3.jpg> <./figures/instalasi/xampp4.jpg>]
+<figures/instalasi/xampp5.jpg, id=388, 377.91188pt x 321.45094pt>
+File: figures/instalasi/xampp5.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp5.jpg>
+Package pdftex.def Info: figures/instalasi/xampp5.jpg  used on input line 883.
+(pdftex.def)             Requested size: 227.62204pt x 193.61269pt.
+File: figures/instalasi/xampp5.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp5.jpg>
+Package pdftex.def Info: figures/instalasi/xampp5.jpg  used on input line 890.
+(pdftex.def)             Requested size: 227.62204pt x 193.61269pt.
+<figures/instalasi/xampp6.jpg, id=389, 377.15906pt x 319.94531pt>
+File: figures/instalasi/xampp6.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp6.jpg>
+Package pdftex.def Info: figures/instalasi/xampp6.jpg  used on input line 897.
+(pdftex.def)             Requested size: 227.62204pt x 193.0915pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[55 <./figures/instalasi/xampp5.jpg>]
+<figures/instalasi/xampp7.jpg, id=393, 376.40625pt x 320.69812pt>
+File: figures/instalasi/xampp7.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp7.jpg>
+Package pdftex.def Info: figures/instalasi/xampp7.jpg  used on input line 904.
+(pdftex.def)             Requested size: 227.62204pt x 193.93732pt.
+<figures/instalasi/xampp8.jpg, id=394, 378.66469pt x 321.45094pt>
+File: figures/instalasi/xampp8.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp8.jpg>
+Package pdftex.def Info: figures/instalasi/xampp8.jpg  used on input line 914.
+(pdftex.def)             Requested size: 227.62204pt x 193.2301pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[56 <./figures/instalasi/xampp6.jpg> <./figures/instalasi/xampp7.jpg>]
+<figures/instalasi/xampp9.jpg, id=398, 593.21625pt x 481.8pt>
+File: figures/instalasi/xampp9.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp9.jpg>
+Package pdftex.def Info: figures/instalasi/xampp9.jpg  used on input line 921.
+(pdftex.def)             Requested size: 227.62204pt x 184.87234pt.
+<figures/instalasi/xampp10.jpg, id=399, 502.12593pt x 325.96782pt>
+File: figures/instalasi/xampp10.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp10.jpg>
+Package pdftex.def Info: figures/instalasi/xampp10.jpg  used on input line 929.
+
+(pdftex.def)             Requested size: 227.62204pt x 147.76845pt.
+
+Overfull \hbox (9.51675pt too wide) in paragraph at lines 927--932
+[]\OT1/ptm/m/n/10 Dengan mengk-lik tombol terse-but artinya bahwa ap-likasi ter
+se-but telah di-jalankan.
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[57 <./figures/instalasi/xampp8.jpg> <./figures/instalasi/xampp9.jpg>]
+<figures/instalasi/xampp11.jpg, id=403, 502.12593pt x 324.46219pt>
+File: figures/instalasi/xampp11.jpg Graphic file (type jpg)
+<use figures/instalasi/xampp11.jpg>
+Package pdftex.def Info: figures/instalasi/xampp11.jpg  used on input line 936.
+
+(pdftex.def)             Requested size: 227.62204pt x 147.08592pt.
+<figures/instalasi/sb1.jpg, id=404, 963.6pt x 541.27219pt>
+File: figures/instalasi/sb1.jpg Graphic file (type jpg)
+<use figures/instalasi/sb1.jpg>
+Package pdftex.def Info: figures/instalasi/sb1.jpg  used on input line 946.
+(pdftex.def)             Requested size: 227.62204pt x 127.85971pt.
+
+Overfull \hbox (70.71527pt too wide) in paragraph at lines 944--949
+[]\OT1/ptm/m/n/10 Download ter-lebih dahulu file sub-lime di si-tus resmi sub-l
+ime, link : https://www.sublimetext.com/ 
+ []
+
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58 <./figures/instalasi/xampp10.jpg> <./figures/instalasi/xampp11.jpg>]
+<figures/instalasi/sb2.jpg, id=409, 88.83188pt x 121.20282pt>
+File: figures/instalasi/sb2.jpg Graphic file (type jpg)
+<use figures/instalasi/sb2.jpg>
+Package pdftex.def Info: figures/instalasi/sb2.jpg  used on input line 952.
+(pdftex.def)             Requested size: 227.62204pt x 310.57959pt.
+<figures/instalasi/sb3.jpg, id=410, 374.14781pt x 292.09125pt>
+File: figures/instalasi/sb3.jpg Graphic file (type jpg)
+<use figures/instalasi/sb3.jpg>
+Package pdftex.def Info: figures/instalasi/sb3.jpg  used on input line 958.
+(pdftex.def)             Requested size: 227.62204pt x 177.70294pt.
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[59 <./figures/instalasi/sb1.jpg> <./figures/instalasi/sb2.jpg>]
+<figures/instalasi/sb4.jpg, id=414, 376.40625pt x 292.09125pt>
+File: figures/instalasi/sb4.jpg Graphic file (type jpg)
+<use figures/instalasi/sb4.jpg>
+Package pdftex.def Info: figures/instalasi/sb4.jpg  used on input line 967.
+(pdftex.def)             Requested size: 227.62204pt x 176.63774pt.
+<figures/instalasi/sb5.jpg, id=415, 374.90062pt x 290.58563pt>
+File: figures/instalasi/sb5.jpg Graphic file (type jpg)
+<use figures/instalasi/sb5.jpg>
+Package pdftex.def Info: figures/instalasi/sb5.jpg  used on input line 973.
+(pdftex.def)             Requested size: 227.62204pt x 176.43225pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[60 <./figures/instalasi/sb3.jpg> <./figures/instalasi/sb4.jpg>]
+<figures/instalasi/sb6.jpg, id=419, 373.395pt x 290.58563pt>
+File: figures/instalasi/sb6.jpg Graphic file (type jpg)
+<use figures/instalasi/sb6.jpg>
+Package pdftex.def Info: figures/instalasi/sb6.jpg  used on input line 979.
+(pdftex.def)             Requested size: 227.62204pt x 177.14168pt.
+<figures/instalasi/sb7.jpg, id=420, 374.14781pt x 292.09125pt>
+File: figures/instalasi/sb7.jpg Graphic file (type jpg)
+<use figures/instalasi/sb7.jpg>
+Package pdftex.def Info: figures/instalasi/sb7.jpg  used on input line 985.
+(pdftex.def)             Requested size: 227.62204pt x 177.70294pt.
+
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[61 <./figures/instalasi/sb5.jpg> <./figures/instalasi/sb6.jpg>]
+<figures/instalasi/sb8.jpg, id=424, 963.6pt x 541.27219pt>
+File: figures/instalasi/sb8.jpg Graphic file (type jpg)
+<use figures/instalasi/sb8.jpg>
+Package pdftex.def Info: figures/instalasi/sb8.jpg  used on input line 991.
+(pdftex.def)             Requested size: 227.62204pt x 127.85971pt.
+<figures/instalasi/vsc1.png, id=425, 1028.34187pt x 578.16pt>
+File: figures/instalasi/vsc1.png Graphic file (type png)
+<use figures/instalasi/vsc1.png>
+Package pdftex.def Info: figures/instalasi/vsc1.png  used on input line 1003.
+(pdftex.def)             Requested size: 227.62204pt x 127.97192pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[62 <./figures/instalasi/sb7.jpg> <./figures/instalasi/sb8.jpg>]
+<figures/instalasi/vsc2.jpg, id=429, 373.395pt x 289.83281pt>
+File: figures/instalasi/vsc2.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc2.jpg>
+Package pdftex.def Info: figures/instalasi/vsc2.jpg  used on input line 1010.
+(pdftex.def)             Requested size: 227.62204pt x 176.68275pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+<figures/instalasi/vsc3.jpg, id=430, 374.14781pt x 290.58563pt>
+File: figures/instalasi/vsc3.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc3.jpg>
+Package pdftex.def Info: figures/instalasi/vsc3.jpg  used on input line 1019.
+(pdftex.def)             Requested size: 227.62204pt x 176.78697pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[63 <./figures/instalasi/vsc1.png> <./figures/instalasi/vsc2.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+File: figures/instalasi/vsc3.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc3.jpg>
+Package pdftex.def Info: figures/instalasi/vsc3.jpg  used on input line 1027.
+(pdftex.def)             Requested size: 227.62204pt x 176.78697pt.
+<figures/instalasi/vsc4.jpg, id=434, 374.90062pt x 291.33844pt>
+File: figures/instalasi/vsc4.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc4.jpg>
+Package pdftex.def Info: figures/instalasi/vsc4.jpg  used on input line 1034.
+(pdftex.def)             Requested size: 227.62204pt x 176.88933pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[64 <./figures/instalasi/vsc3.jpg>]
+<figures/instalasi/vsc5.jpg, id=439, 375.65344pt x 292.84406pt>
+File: figures/instalasi/vsc5.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc5.jpg>
+Package pdftex.def Info: figures/instalasi/vsc5.jpg  used on input line 1041.
+(pdftex.def)             Requested size: 227.62204pt x 177.446pt.
+<figures/instalasi/vsc6.jpg, id=440, 373.395pt x 287.57437pt>
+File: figures/instalasi/vsc6.jpg Graphic file (type jpg)
+<use figures/instalasi/vsc6.jpg>
+Package pdftex.def Info: figures/instalasi/vsc6.jpg  used on input line 1048.
+(pdftex.def)             Requested size: 227.62204pt x 175.30602pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[65 <./figures/instalasi/vsc4.jpg> <./figures/instalasi/vsc5.jpg>])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[66 <./figures/instalasi/vsc6.jpg>]
+Bab 3.
+(chapters/3.tex
+Overfull \hbox (1.75696pt too wide) in paragraph at lines 3--6
+\OT1/ptm/m/n/10 Ob-ject Ori-ented yang mem-berikan gam-baran men-ge-nai proses 
+yang ter-da-pat di dalam
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67
+
+]
+<figures/analisis/1.png, id=450, 274.02374pt x 314.67563pt>
+File: figures/analisis/1.png Graphic file (type png)
+<use figures/analisis/1.png>
+Package pdftex.def Info: figures/analisis/1.png  used on input line 11.
+(pdftex.def)             Requested size: 227.62204pt x 261.39676pt.
+
+Overfull \hbox (15.37746pt too wide) in paragraph at lines 19--20
+[]\OT1/ptm/m/n/10 Kepala desa mengkon-fir-masi ke pada petu-gas ke-ber-si-han u
+n-tuk melakukan pengam-
+ []
+
+<figures/analisis/2.png, id=451, 354.57469pt x 364.36125pt>
+File: figures/analisis/2.png Graphic file (type png)
+<use figures/analisis/2.png>
+Package pdftex.def Info: figures/analisis/2.png  used on input line 28.
+(pdftex.def)             Requested size: 227.62204pt x 233.9076pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[68 <./figures/analisis/1.png>]
+<figures/analisis/3.png, id=456, 362.10281pt x 414.79968pt>
+File: figures/analisis/3.png Graphic file (type png)
+<use figures/analisis/3.png>
+Package pdftex.def Info: figures/analisis/3.png  used on input line 46.
+(pdftex.def)             Requested size: 227.62204pt x 260.74922pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[69 <./figures/analisis/2.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[70 <./figures/analisis/3.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 76.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 76.
+<figures/analisis/4.png, id=466, 490.08093pt x 414.79968pt>
+File: figures/analisis/4.png Graphic file (type png)
+<use figures/analisis/4.png>
+Package pdftex.def Info: figures/analisis/4.png  used on input line 120.
+(pdftex.def)             Requested size: 227.62204pt x 192.65201pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[72 <./figures/analisis/4.png>]
+<figures/analisis/a3.jpg, id=474, 366.61969pt x 363.60844pt>
+File: figures/analisis/a3.jpg Graphic file (type jpg)
+<use figures/analisis/a3.jpg>
+Package pdftex.def Info: figures/analisis/a3.jpg  used on input line 163.
+(pdftex.def)             Requested size: 227.62204pt x 225.75668pt.
+<figures/analisis/a4.jpg, id=475, 353.06906pt x 318.43968pt>
+File: figures/analisis/a4.jpg Graphic file (type jpg)
+<use figures/analisis/a4.jpg>
+Package pdftex.def Info: figures/analisis/a4.jpg  used on input line 168.
+(pdftex.def)             Requested size: 227.62204pt x 205.29727pt.
+<figures/analisis/a5.jpg, id=476, 353.06906pt x 319.94531pt>
+File: figures/analisis/a5.jpg Graphic file (type jpg)
+<use figures/analisis/a5.jpg>
+Package pdftex.def Info: figures/analisis/a5.jpg  used on input line 173.
+(pdftex.def)             Requested size: 227.62204pt x 206.26793pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[73 <./figures/analisis/a3.jpg>]
+<figures/analisis/a6.jpg, id=480, 353.82187pt x 344.78813pt>
+File: figures/analisis/a6.jpg Graphic file (type jpg)
+<use figures/analisis/a6.jpg>
+Package pdftex.def Info: figures/analisis/a6.jpg  used on input line 178.
+(pdftex.def)             Requested size: 227.62204pt x 221.81055pt.
+<figures/analisis/a7.jpg, id=481, 353.06906pt x 362.10281pt>
+File: figures/analisis/a7.jpg Graphic file (type jpg)
+<use figures/analisis/a7.jpg>
+Package pdftex.def Info: figures/analisis/a7.jpg  used on input line 183.
+(pdftex.def)             Requested size: 227.62204pt x 233.44676pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[74 <./figures/analisis/a4.jpg> <./figures/analisis/a5.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+<figures/analisis/5.png, id=485, 776.9025pt x 444.91219pt>
+File: figures/analisis/5.png Graphic file (type png)
+<use figures/analisis/5.png>
+Package pdftex.def Info: figures/analisis/5.png  used on input line 193.
+(pdftex.def)             Requested size: 227.62204pt x 130.35182pt.
+
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[75 <./figures/analisis/a6.jpg> <./figures/analisis/a7.jpg>]
+Overfull \hbox (0.80757pt too wide) in paragraph at lines 199--201
+\OT1/ptm/m/n/10 Squence di-a-gram menggam-barkan ke-lakuan ob-jek pada use case
+ den-gan mendeskrip-
+ []
+
+<figures/analisis/6.png, id=489, 490.08093pt x 309.40594pt>
+File: figures/analisis/6.png Graphic file (type png)
+<use figures/analisis/6.png>
+Package pdftex.def Info: figures/analisis/6.png  used on input line 205.
+(pdftex.def)             Requested size: 227.62204pt x 143.7023pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--208
+
+ []
+
+<figures/analisis/7.png, id=490, 603.0028pt x 301.125pt>
+File: figures/analisis/7.png Graphic file (type png)
+<use figures/analisis/7.png>
+Package pdftex.def Info: figures/analisis/7.png  used on input line 216.
+(pdftex.def)             Requested size: 227.62204pt x 113.66594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--219
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[76 <./figures/analisis/5.png> <./figures/analisis/6.png>]
+<figures/analisis/8.png, id=497, 522.45187pt x 246.9225pt>
+File: figures/analisis/8.png Graphic file (type png)
+<use figures/analisis/8.png>
+Package pdftex.def Info: figures/analisis/8.png  used on input line 227.
+(pdftex.def)             Requested size: 227.62204pt x 107.57996pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+<figures/analisis/9.png, id=498, 422.32782pt x 223.58531pt>
+File: figures/analisis/9.png Graphic file (type png)
+<use figures/analisis/9.png>
+Package pdftex.def Info: figures/analisis/9.png  used on input line 238.
+(pdftex.def)             Requested size: 227.62204pt x 120.5091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--241
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[77 <./figures/analisis/7.png> <./figures/analisis/8.png>]
+Overfull \hbox (11.43692pt too wide) in paragraph at lines 242--246
+\OT1/ptm/m/n/10 laskan proses peng-in-putan data sam-pah oleh petu-gas ke-ber-s
+i-han sete-lah melakukan
+ []
+
+<figures/analisis/10.png, id=504, 490.08093pt x 208.52907pt>
+File: figures/analisis/10.png Graphic file (type png)
+<use figures/analisis/10.png>
+Package pdftex.def Info: figures/analisis/10.png  used on input line 250.
+(pdftex.def)             Requested size: 227.62204pt x 96.85045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--253
+
+ []
+
+
+Overfull \hbox (0.27728pt too wide) in paragraph at lines 254--257
+\OT1/ptm/m/n/10 Pada Se-quence Di-a-gram ini men-je-laskan proses pengam-bi-lan
+ sam-pah yang akan
+ []
+
+
+Overfull \hbox (10.37743pt too wide) in paragraph at lines 254--257
+\OT1/ptm/m/n/10 di atur oleh ad-min, disni ad-min akan men-gatur petu-gas mana 
+yang akan melakukan
+ []
+
+
+Overfull \hbox (2.68881pt too wide) in paragraph at lines 261--262
+ \subsubsectionfont 3.1.2.4 Ac-tiv-ity Di-a-gram[] \OT1/ptm/m/n/10 Ac-tiv-ity D
+i-a-gram adalah se-buah di-a-gram alur kerja yang
+ []
+
+
+Overfull \hbox (7.78699pt too wide) in paragraph at lines 261--262
+\OT1/ptm/m/n/10 men-je-laskan berba-gai kegiatan peng-guna (atau sis-tem), oran
+g yang melakukan masing-
+ []
+
+<figures/analisis/11.png, id=505, 347.04657pt x 369.63094pt>
+File: figures/analisis/11.png Graphic file (type png)
+<use figures/analisis/11.png>
+Package pdftex.def Info: figures/analisis/11.png  used on input line 267.
+(pdftex.def)             Requested size: 227.62204pt x 242.43997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--270
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[78 <./figures/analisis/9.png> <./figures/analisis/10.png>]
+File: figures/analisis/11.png Graphic file (type png)
+<use figures/analisis/11.png>
+Package pdftex.def Info: figures/analisis/11.png  used on input line 278.
+(pdftex.def)             Requested size: 227.62204pt x 242.43997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--281
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[79 <./figures/analisis/11.png>]
+<figures/analisis/12.png, id=515, 392.21532pt x 325.96782pt>
+File: figures/analisis/12.png Graphic file (type png)
+<use figures/analisis/12.png>
+Package pdftex.def Info: figures/analisis/12.png  used on input line 289.
+(pdftex.def)             Requested size: 227.62204pt x 189.17586pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--292
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[80]
+<figures/analisis/14.png, id=519, 414.79968pt x 309.40594pt>
+File: figures/analisis/14.png Graphic file (type png)
+<use figures/analisis/14.png>
+Package pdftex.def Info: figures/analisis/14.png  used on input line 300.
+(pdftex.def)             Requested size: 227.62204pt x 169.78665pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--303
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[81 <./figures/analisis/12.png> <./figures/analisis/14.png>]
+<figures/analisis/15.png, id=525, 422.32782pt x 324.46219pt>
+File: figures/analisis/15.png Graphic file (type png)
+<use figures/analisis/15.png>
+Package pdftex.def Info: figures/analisis/15.png  used on input line 311.
+(pdftex.def)             Requested size: 227.62204pt x 174.8802pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+
+Overfull \hbox (0.27728pt too wide) in paragraph at lines 315--318
+\OT1/ptm/m/n/10 Pada Se-quence Di-a-gram ini men-je-laskan proses pengam-bi-lan
+ sam-pah yang akan
+ []
+
+
+Overfull \hbox (10.37743pt too wide) in paragraph at lines 315--318
+\OT1/ptm/m/n/10 di atur oleh ad-min, disni ad-min akan men-gatur petu-gas mana 
+yang akan melakukan
+ []
+
+<figures/analisis/16.png, id=526, 347.04657pt x 279.29344pt>
+File: figures/analisis/16.png Graphic file (type png)
+<use figures/analisis/16.png>
+Package pdftex.def Info: figures/analisis/16.png  used on input line 323.
+(pdftex.def)             Requested size: 227.62204pt x 183.18785pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[82 <./figures/analisis/15.png>]
+<figures/analisis/17.png, id=532, 405.76593pt x 290.58563pt>
+File: figures/analisis/17.png Graphic file (type png)
+<use figures/analisis/17.png>
+Package pdftex.def Info: figures/analisis/17.png  used on input line 333.
+(pdftex.def)             Requested size: 227.62204pt x 163.01505pt.
+<figures/analisis/18.png, id=533, 1028.34187pt x 546.54187pt>
+File: figures/analisis/18.png Graphic file (type png)
+<use figures/analisis/18.png>
+Package pdftex.def Info: figures/analisis/18.png  used on input line 345.
+(pdftex.def)             Requested size: 227.62204pt x 120.97345pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--348
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[83 <./figures/analisis/16.png> <./figures/analisis/17.png>]
+Overfull \hbox (8.12666pt too wide) in paragraph at lines 351--352
+\OT1/ptm/m/n/10 ad-min dalam melakukan pen-gelo-laan user. Pada ha-la-man reg-i
+s-trasi ini masyarakat
+ []
+
+<figures/analisis/19.png, id=539, 1028.34187pt x 549.55313pt>
+File: figures/analisis/19.png Graphic file (type png)
+<use figures/analisis/19.png>
+Package pdftex.def Info: figures/analisis/19.png  used on input line 358.
+(pdftex.def)             Requested size: 227.62204pt x 121.63998pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--361
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[84 <./figures/analisis/18.png> <./figures/analisis/19.png>]
+<figures/analisis/20.png, id=543, 1027.58907pt x 548.80031pt>
+File: figures/analisis/20.png Graphic file (type png)
+<use figures/analisis/20.png>
+Package pdftex.def Info: figures/analisis/20.png  used on input line 373.
+(pdftex.def)             Requested size: 227.62204pt x 121.56546pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--376
+
+ []
+
+<figures/analisis/21.png, id=544, 1028.34187pt x 513.41812pt>
+File: figures/analisis/21.png Graphic file (type png)
+<use figures/analisis/21.png>
+Package pdftex.def Info: figures/analisis/21.png  used on input line 390.
+(pdftex.def)             Requested size: 227.62204pt x 113.64172pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--393
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[85 <./figures/analisis/20.png>]
+Overfull \hbox (2.39708pt too wide) in paragraph at lines 397--398
+[]\OT1/ptm/m/n/10 Tombol but-ton ak-ti-vasi un-tuk melakukan proses ak-ti-vasi 
+ad-min ter-hadap nasabah
+ []
+
+
+Overfull \hbox (8.2167pt too wide) in paragraph at lines 397--398
+\OT1/ptm/m/n/10 baru yang telah menye-le-saikan proses reg-is-trasi dan telah m
+e-lengkapi per-syaratan. 
+ []
+
+<figures/analisis/22.png, id=548, 1027.58907pt x 505.13719pt>
+File: figures/analisis/22.png Graphic file (type png)
+<use figures/analisis/22.png>
+Package pdftex.def Info: figures/analisis/22.png  used on input line 403.
+(pdftex.def)             Requested size: 227.62204pt x 111.89359pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--406
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[86 <./figures/analisis/21.png> <./figures/analisis/22.png>]
+<figures/analisis/23.png, id=552, 1028.34187pt x 510.40688pt>
+File: figures/analisis/23.png Graphic file (type png)
+<use figures/analisis/23.png>
+Package pdftex.def Info: figures/analisis/23.png  used on input line 419.
+(pdftex.def)             Requested size: 227.62204pt x 112.9752pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--422
+
+ []
+
+<figures/analisis/24.png, id=553, 1028.34187pt x 510.40688pt>
+File: figures/analisis/24.png Graphic file (type png)
+<use figures/analisis/24.png>
+Package pdftex.def Info: figures/analisis/24.png  used on input line 431.
+(pdftex.def)             Requested size: 227.62204pt x 112.9752pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--434
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[87 <./figures/analisis/23.png> <./figures/analisis/24.png>]
+<figures/analisis/25.png, id=557, 1028.34187pt x 511.9125pt>
+File: figures/analisis/25.png Graphic file (type png)
+<use figures/analisis/25.png>
+Package pdftex.def Info: figures/analisis/25.png  used on input line 445.
+(pdftex.def)             Requested size: 227.62204pt x 113.30847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--448
+
+ []
+
+
+Overfull \hbox (0.84726pt too wide) in paragraph at lines 455--456
+[]\OT1/ptm/m/n/10 Tombol but-ton delete un-tuk meng-ha-pus data menu man-age-me
+nt jika menu terse-
+ []
+
+<figures/analisis/26.png, id=558, 1028.34187pt x 513.41812pt>
+File: figures/analisis/26.png Graphic file (type png)
+<use figures/analisis/26.png>
+Package pdftex.def Info: figures/analisis/26.png  used on input line 462.
+(pdftex.def)             Requested size: 227.62204pt x 113.64172pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--465
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[88 <./figures/analisis/25.png>]
+Overfull \hbox (6.8071pt too wide) in paragraph at lines 468--469
+[]\OT1/ptm/m/n/10 Pada ha-la-man ini ad-min da-pat men-gelola sub-menu man-age-
+ment, se-hingga memu-
+ []
+
+
+Overfull \hbox (6.1171pt too wide) in paragraph at lines 470--471
+[]\OT1/ptm/m/n/10 Apabila proses tam-bah berhasil maka akan mem-buat sub menu m
+an-age-ment.yang
+ []
+
+
+Overfull \hbox (0.84726pt too wide) in paragraph at lines 473--474
+[]\OT1/ptm/m/n/10 Tombol but-ton delete un-tuk meng-ha-pus data menu man-age-me
+nt jika menu terse-
+ []
+
+<figures/analisis/27.png, id=563, 1028.34187pt x 505.89pt>
+File: figures/analisis/27.png Graphic file (type png)
+<use figures/analisis/27.png>
+Package pdftex.def Info: figures/analisis/27.png  used on input line 479.
+(pdftex.def)             Requested size: 227.62204pt x 111.97543pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--482
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[89 <./figures/analisis/26.png> <./figures/analisis/27.png>]
+<figures/analisis/28.png, id=567, 1028.34187pt x 510.40688pt>
+File: figures/analisis/28.png Graphic file (type png)
+<use figures/analisis/28.png>
+Package pdftex.def Info: figures/analisis/28.png  used on input line 495.
+(pdftex.def)             Requested size: 227.62204pt x 112.9752pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--498
+
+ []
+
+
+Overfull \hbox (16.2773pt too wide) in paragraph at lines 502--503
+\OT1/ptm/m/n/10 nasabah akan menge-cek uang terse-but pada ha-la-man ini dan ji
+ka nasabah melakukan
+ []
+
+<figures/analisis/29.png, id=568, 1028.34187pt x 517.18219pt>
+File: figures/analisis/29.png Graphic file (type png)
+<use figures/analisis/29.png>
+Package pdftex.def Info: figures/analisis/29.png  used on input line 508.
+(pdftex.def)             Requested size: 227.62204pt x 114.47488pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
+
+ []
+
+
+Underfull \vbox (badness 6141) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[90 <./figures/analisis/28.png>]
+Overfull \hbox (5.0271pt too wide) in paragraph at lines 514--515
+[]\OT1/ptm/m/n/10 Pada ha-la-man ini nasabah da-pat menen-tukan jadawal pengam-
+bi-lan sam-pah sesuai
+ []
+
+<figures/analisis/30.png, id=572, 1028.34187pt x 491.58656pt>
+File: figures/analisis/30.png Graphic file (type png)
+<use figures/analisis/30.png>
+Package pdftex.def Info: figures/analisis/30.png  used on input line 524.
+(pdftex.def)             Requested size: 227.62204pt x 108.80946pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+
+ []
+
+
+Overfull \hbox (1.52771pt too wide) in paragraph at lines 530--531
+[]\OT1/ptm/m/n/10 Pada ha-la-man ini Ad-min men-gatur petu-gas mana yang akan m
+elakukan pengam-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[91 <./figures/analisis/29.png> <./figures/analisis/30.png>]
+<figures/analisis/31.png, id=576, 1028.34187pt x 481.04718pt>
+File: figures/analisis/31.png Graphic file (type png)
+<use figures/analisis/31.png>
+Package pdftex.def Info: figures/analisis/31.png  used on input line 538.
+(pdftex.def)             Requested size: 227.62204pt x 106.47664pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--541
+
+ []
+
+
+Overfull \hbox (9.55702pt too wide) in paragraph at lines 545--546
+[]\OT1/ptm/m/n/10 Jika proses peng-in-putan berhasil maka akan muncul pada ha-l
+a-man his-tori pengam-
+ []
+
+<figures/analisis/32.png, id=577, 542.025pt x 963.6pt>
+File: figures/analisis/32.png Graphic file (type png)
+<use figures/analisis/32.png>
+Package pdftex.def Info: figures/analisis/32.png  used on input line 552.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[92 <./figures/analisis/31.png>]
+<figures/analisis/33.png, id=581, 542.025pt x 963.6pt>
+File: figures/analisis/33.png Graphic file (type png)
+<use figures/analisis/33.png>
+Package pdftex.def Info: figures/analisis/33.png  used on input line 563.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[93 <./figures/analisis/32.png>]
+<figures/analisis/34.png, id=585, 542.025pt x 963.6pt>
+File: figures/analisis/34.png Graphic file (type png)
+<use figures/analisis/34.png>
+Package pdftex.def Info: figures/analisis/34.png  used on input line 573.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[94 <./figures/analisis/33.png>]
+<figures/analisis/35.png, id=590, 542.025pt x 963.6pt>
+File: figures/analisis/35.png Graphic file (type png)
+<use figures/analisis/35.png>
+Package pdftex.def Info: figures/analisis/35.png  used on input line 585.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--588
+
+ []
+
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[95 <./figures/analisis/34.png>]
+<figures/analisis/36.png, id=594, 542.025pt x 963.6pt>
+File: figures/analisis/36.png Graphic file (type png)
+<use figures/analisis/36.png>
+Package pdftex.def Info: figures/analisis/36.png  used on input line 598.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--601
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[96 <./figures/analisis/35.png>]
+<figures/analisis/37.png, id=598, 542.025pt x 963.6pt>
+File: figures/analisis/37.png Graphic file (type png)
+<use figures/analisis/37.png>
+Package pdftex.def Info: figures/analisis/37.png  used on input line 611.
+(pdftex.def)             Requested size: 227.62204pt x 404.66513pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--614
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[97 <./figures/analisis/36.png>]
+Overfull \hbox (5.91757pt too wide) in paragraph at lines 618--619
+[]\OT1/ptm/m/n/10 Apabila nasabah su-dah men-da-p-atkan no reken-ing maka nasab
+ah da-pat melakukan
+ []
+
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[98 <./figures/analisis/37.png>]
+Bab 4.
+(chapters/4.tex (chapters/4.1.tex
+Overfull \hbox (1.99677pt too wide) in paragraph at lines 3--4
+\OT1/ptm/m/n/10 XAMPP akan mem-per-mu-dah kita dalam mem-buat se-buah web yang 
+su-dah dilengkapi
+ []
+
+<figures/database/1.png, id=605, 514.17094pt x 188.20313pt>
+File: figures/database/1.png Graphic file (type png)
+<use figures/database/1.png>
+Package pdftex.def Info: figures/database/1.png  used on input line 7.
+(pdftex.def)             Requested size: 199.16928pt x 72.9021pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99
+
+]
+Overfull \hbox (15.55595pt too wide) in paragraph at lines 10--12
+\OT1/ptm/m/n/10 da-pat mem-u-lai mem-buat database . Ke-mu-dian jalankan url ht
+tp://localhost/phpmyadmin/
+ []
+
+<figures/database/2.png, id=609, 1028.34187pt x 524.71031pt>
+File: figures/database/2.png Graphic file (type png)
+<use figures/database/2.png>
+Package pdftex.def Info: figures/database/2.png  used on input line 15.
+(pdftex.def)             Requested size: 336.0pt x 171.44156pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+
+Overfull \hbox (66.05579pt too wide) in paragraph at lines 18--20
+\OT1/ptm/m/n/10 Pada gam-bar di atas meru-pakan tampi-lan awal ketika kita mem-
+buka url http://localhost/phpmyadmin/,
+ []
+
+<figures/database/3.png, id=610, 1028.34187pt x 304.88907pt>
+File: figures/database/3.png Graphic file (type png)
+<use figures/database/3.png>
+Package pdftex.def Info: figures/database/3.png  used on input line 23.
+(pdftex.def)             Requested size: 336.0pt x 99.61812pt.
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[100 <./figures/database/1.png> <./figures/database/2.png> <./figures/database/
+3.png>] (src/bank-sampah/bank_sampah.sql)
+<figures/database/4.png, id=615, 1028.34187pt x 492.33937pt>
+File: figures/database/4.png Graphic file (type png)
+<use figures/database/4.png>
+Package pdftex.def Info: figures/database/4.png  used on input line 33.
+(pdftex.def)             Requested size: 336.0pt x 160.8648pt.
+
+Overfull \hbox (3.3571pt too wide) in paragraph at lines 36--38
+\OT1/ptm/m/n/10 Dilanjut den-gan mem-buat tabel req. Caranya masih sama den-gan
+ se-belum-nya, ketikan
+ []
+
+(src/bank-sampah/bank_sampah.sql)
+<figures/database/5.png, id=616, 1028.34187pt x 490.08093pt>
+File: figures/database/5.png Graphic file (type png)
+<use figures/database/5.png>
+Package pdftex.def Info: figures/database/5.png  used on input line 43.
+(pdftex.def)             Requested size: 336.0pt x 160.1269pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[101 <./figures/database/4.png> <./figures/database/5.png>]
+(src/bank-sampah/bank_sampah.sql)
+<figures/database/6.png, id=620, 1028.34187pt x 490.83376pt>
+File: figures/database/6.png Graphic file (type png)
+<use figures/database/6.png>
+Package pdftex.def Info: figures/database/6.png  used on input line 53.
+(pdftex.def)             Requested size: 336.0pt x 160.37288pt.
+ (src/bank-sampah/bank_sampah.sql)
+<figures/database/7.png, id=621, 1028.34187pt x 493.845pt>
+File: figures/database/7.png Graphic file (type png)
+<use figures/database/7.png>
+Package pdftex.def Info: figures/database/7.png  used on input line 63.
+(pdftex.def)             Requested size: 336.0pt x 161.35675pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[102 <./figures/database/6.png>] (src/bank-sampah/bank_sampah.sql)
+<figures/database/8.png, id=625, 1028.34187pt x 495.35063pt>
+File: figures/database/8.png Graphic file (type png)
+<use figures/database/8.png>
+Package pdftex.def Info: figures/database/8.png  used on input line 73.
+(pdftex.def)             Requested size: 336.0pt x 161.84871pt.
+
+(src/bank-sampah/bank_sampah.sql
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [103 <./figures/database/7.png> <./figures/database/8.png>])
+<figures/database/9.png, id=629, 1028.34187pt x 494.59781pt>
+File: figures/database/9.png Graphic file (type png)
+<use figures/database/9.png>
+Package pdftex.def Info: figures/database/9.png  used on input line 83.
+(pdftex.def)             Requested size: 336.0pt x 161.60272pt.
+
+(src/bank-sampah/bank_sampah.sql)
+<figures/database/10.png, id=630, 1028.34187pt x 500.62032pt>
+File: figures/database/10.png Graphic file (type png)
+<use figures/database/10.png>
+Package pdftex.def Info: figures/database/10.png  used on input line 93.
+(pdftex.def)             Requested size: 336.0pt x 163.5705pt.
+ (src/bank-sampah/bank_sampah.sql
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [104 <./figures/database/9.png> <./figures/database/10.png>])
+<figures/database/11.png, id=634, 1028.34187pt x 493.845pt>
+File: figures/database/11.png Graphic file (type png)
+<use figures/database/11.png>
+Package pdftex.def Info: figures/database/11.png  used on input line 103.
+(pdftex.def)             Requested size: 336.0pt x 161.35675pt.
+
+(src/bank-sampah/bank_sampah.sql)
+<figures/database/12.png, id=635, 1028.34187pt x 494.59781pt>
+File: figures/database/12.png Graphic file (type png)
+<use figures/database/12.png>
+Package pdftex.def Info: figures/database/12.png  used on input line 113.
+(pdftex.def)             Requested size: 336.0pt x 161.60272pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[105 <./figures/database/11.png> <./figures/database/12.png>]
+(src/bank-sampah/bank_sampah.sql)
+<figures/database/13.png, id=639, 1028.34187pt x 494.59781pt>
+File: figures/database/13.png Graphic file (type png)
+<use figures/database/13.png>
+Package pdftex.def Info: figures/database/13.png  used on input line 123.
+(pdftex.def)             Requested size: 336.0pt x 161.60272pt.
+ (src/bank-sampah/bank_sampah.sql)
+<figures/database/14.png, id=640, 1028.34187pt x 493.845pt>
+File: figures/database/14.png Graphic file (type png)
+<use figures/database/14.png>
+Package pdftex.def Info: figures/database/14.png  used on input line 133.
+(pdftex.def)             Requested size: 336.0pt x 161.35675pt.
+<figures/database/15.png, id=641, 193.47281pt x 242.40562pt>
+File: figures/database/15.png Graphic file (type png)
+<use figures/database/15.png>
+Package pdftex.def Info: figures/database/15.png  used on input line 141.
+(pdftex.def)             Requested size: 336.0pt x 420.9871pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[106 <./figures/database/13.png> <./figures/database/14.png>]
+<figures/database/16.png, id=646, 836.3747pt x 414.79968pt>
+File: figures/database/16.png Graphic file (type png)
+<use figures/database/16.png>
+Package pdftex.def Info: figures/database/16.png  used on input line 146.
+(pdftex.def)             Requested size: 336.0pt x 166.6448pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[107 <./figures/database/15.png>]) (chapters/4.4.tex
+(src/bank-sampah/application/config/config.php
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 5
+.
+
+("C:\Users\Bakti Qilan\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 5--6
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 7--8
+[][][][][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [108 <./figures/database/16.png>]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 29--30
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 31--32
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 41--42
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 43--44
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 58--59
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 60--61
+[][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [109]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 70--71
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 72--73
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 82--83
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 84--85
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 95--96
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 97--98
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 106--107
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 108--109
+[][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [110]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 120--121
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 122--123
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 142--143
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 144--145
+[][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [111]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 164--165
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 166--167
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 191--192
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 193--194
+[][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [112]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 205--206
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 207--208
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 229--230
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 231--232
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 240--241
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 242--243
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [113]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 254--255
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 256--257
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 266--267
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 268--269
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 277--278
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 279--280
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 288--289
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 290--291
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [114]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 299--300
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 301--302
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 317--318
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 319--320
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 330--331
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 332--333
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [116]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 389--390
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 391--392
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 410--411
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 412--413
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 424--425
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 426--427
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [117]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 438--439
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 440--441
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 459--460
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 461--462
+[][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [118]
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 481--482
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 483--484
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 494--495
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 496--497
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 508--509
+[][][][][][] 
+ []
+
+
+Overfull \hbox (24.00366pt too wide) in paragraph at lines 510--511
+[][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [119])
+(src/bank-sampah/application/config/database.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [121])
+(src/bank-sampah/application/config/routes.php
+Overfull \hbox (34.40356pt too wide) in paragraph at lines 5--6
+[][] 
+ []
+
+
+Overfull \hbox (34.40356pt too wide) in paragraph at lines 7--8
+[][] 
+ []
+
+
+Overfull \hbox (34.40356pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+
+Overfull \hbox (34.40356pt too wide) in paragraph at lines 26--27
+[][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [122])
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+(src/bank-sampah/application/controllers/Admin.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [124]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [125]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [126]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [128])
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+(src/bank-sampah/application/controllers/Auth.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [129]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [130]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [131])
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+(src/bank-sampah/application/controllers/Data.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [133])
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+(src/bank-sampah/application/controllers/Info.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [134])
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+(src/bank-sampah/application/controllers/Menu.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [136]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [137])
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+(src/bank-sampah/application/controllers/Petugas.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [139])
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+(src/bank-sampah/application/controllers/Rek.php)
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+(src/bank-sampah/application/controllers/Request.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [140])
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+(src/bank-sampah/application/controllers/Tabungan.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [141])
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+(src/bank-sampah/application/controllers/User.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [144])
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+(src/bank-sampah/application/controllers/Welcome.php)
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \vbox (badness 1466) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[145] (src/bank-sampah/application/helpers/bs_helper.php
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [146])
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+(src/bank-sampah/application/models/Admin_model.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [147])
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+(src/bank-sampah/application/models/Aktivasi_model.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [148])
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+(src/bank-sampah/application/models/Auth_model.php)
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[149] (src/bank-sampah/application/models/Menu_model.php)
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+(src/bank-sampah/application/models/Petugas_model.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [150])
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+(src/bank-sampah/application/models/Rek_model.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [151])
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+(src/bank-sampah/application/models/Request_model.php)
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+(src/bank-sampah/application/models/Tabungan_model.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [152])
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+(src/bank-sampah/application/views/admin/aktivasi.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [154])
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+(src/bank-sampah/application/views/admin/histori.php)
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+(src/bank-sampah/application/views/admin/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [155])
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+(src/bank-sampah/application/views/admin/jemput.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [157])
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+(src/bank-sampah/application/views/admin/role.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [159])
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+(src/bank-sampah/application/views/admin/role-access.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [160])
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+(src/bank-sampah/application/views/admin/sampah.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [162]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [163])
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+(src/bank-sampah/application/views/admin/tarik.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [165]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [166])
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+(src/bank-sampah/application/views/auth/blocked.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [167]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ó in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [168])
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+(src/bank-sampah/application/views/auth/login.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [169])
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+(src/bank-sampah/application/views/auth/registration.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [170]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [171])
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+(src/bank-sampah/application/views/data/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [173])
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+(src/bank-sampah/application/views/info/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [174])
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+(src/bank-sampah/application/views/menu/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [176])
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+(src/bank-sampah/application/views/menu/submenu.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [177]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [179]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [180])
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+(src/bank-sampah/application/views/petugas/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [182])
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+(src/bank-sampah/application/views/petugas/histori.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [183])
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+(src/bank-sampah/application/views/request/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [184])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [185]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+(src/bank-sampah/application/views/tabungan/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [186])
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+(src/bank-sampah/application/views/tabungan/tarik.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [187])
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+(src/bank-sampah/application/views/templates/auth_footer.php)
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+(src/bank-sampah/application/views/templates/auth_header.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [188])
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+(src/bank-sampah/application/views/templates/footer.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [189]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ó in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [190])
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+(src/bank-sampah/application/views/templates/header.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [191])
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+(src/bank-sampah/application/views/templates/sidebar.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [192])
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[193] (src/bank-sampah/application/views/templates/topbar.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [194])
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+(src/bank-sampah/application/views/user/data.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [196])
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+(src/bank-sampah/application/views/user/edit.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [197])
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+(src/bank-sampah/application/views/user/index.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [198])
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+(src/bank-sampah/application/views/user/ubahpassword.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [199])
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+(src/bank-sampah/application/views/welcome/welcome.php
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [200]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [201]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [202]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [203]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [204]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [205]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [206]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [208]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [209]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [210]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [211])))
+No file main.bbl.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[212]
+No file main.ind.
+(main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5734 strings out of 481556
+ 96104 string characters out of 2923614
+ 972706 words of memory out of 3000000
+ 20519 multiletter control sequences out of 15000+200000
+ 599197 words of font info for 139 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,15n,47p,1362b,1748s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw/helvetic/uhvb8a
+.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw/helvetic/
+uhvbo8a.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw/he
+lvetic/uhvr8a.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts/type1/
+urw/times/utmb8a.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts/typ
+e1/urw/times/utmbi8a.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fonts
+/type1/urw/times/utmr8a.pfb><C:/Users/Bakti Qilan/AppData/Roaming/MiKTeX/2.9/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (251 pages, 8660939 bytes).
+PDF statistics:
+ 1037 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 716 words of extra memory for PDF output out of 10000 (max. 10000000)
+

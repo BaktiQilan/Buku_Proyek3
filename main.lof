@@ -1,0 +1,129 @@
+\contentsline {figure}{\numberline {2.1\relax }{\ignorespaces Logo PHP}}{9}%
+\contentsline {figure}{\numberline {2.2\relax }{\ignorespaces integrasi sistem}}{14}%
+\contentsline {figure}{\numberline {2.3\relax }{\ignorespaces apa itu php?}}{14}%
+\contentsline {figure}{\numberline {2.4\relax }{\ignorespaces Creator PHP Rasmus Lerdorf }}{15}%
+\contentsline {figure}{\numberline {2.5\relax }{\ignorespaces Website dengan bahasa PHP}}{16}%
+\contentsline {figure}{\numberline {2.6\relax }{\ignorespaces Program Hello world yang ditulis dengan PHP}}{17}%
+\contentsline {figure}{\numberline {2.7\relax }{\ignorespaces Ilustrasi HTML}}{18}%
+\contentsline {figure}{\numberline {2.8\relax }{\ignorespaces Framework PHP}}{20}%
+\contentsline {figure}{\numberline {2.9\relax }{\ignorespaces Logo Codeigniter}}{23}%
+\contentsline {figure}{\numberline {2.10\relax }{\ignorespaces MVC Concept}}{24}%
+\contentsline {figure}{\numberline {2.11\relax }{\ignorespaces Tampilan Xampp}}{25}%
+\contentsline {figure}{\numberline {2.12\relax }{\ignorespaces Tampilan web Xampp jika berhasil instalasi}}{25}%
+\contentsline {figure}{\numberline {2.13\relax }{\ignorespaces Website Codeigniter}}{26}%
+\contentsline {figure}{\numberline {2.14\relax }{\ignorespaces Ekstrak File}}{26}%
+\contentsline {figure}{\numberline {2.15\relax }{\ignorespaces Hasil Ekstrak File}}{26}%
+\contentsline {figure}{\numberline {2.16\relax }{\ignorespaces Membuka Direktory htdocs}}{27}%
+\contentsline {figure}{\numberline {2.17\relax }{\ignorespaces Menjalankan XAMPP}}{27}%
+\contentsline {figure}{\numberline {2.18\relax }{\ignorespaces Mencobanya di browser}}{28}%
+\contentsline {figure}{\numberline {2.19\relax }{\ignorespaces Struktur direcory dari Codeigniter}}{29}%
+\contentsline {figure}{\numberline {2.20\relax }{\ignorespaces Struktur direcory dari folder Application}}{30}%
+\contentsline {figure}{\numberline {2.21\relax }{\ignorespaces Folder Application/cache}}{30}%
+\contentsline {figure}{\numberline {2.22\relax }{\ignorespaces Folder Application/config}}{31}%
+\contentsline {figure}{\numberline {2.23\relax }{\ignorespaces Folder Application/controllers}}{32}%
+\contentsline {figure}{\numberline {2.24\relax }{\ignorespaces Folder Application/core}}{32}%
+\contentsline {figure}{\numberline {2.25\relax }{\ignorespaces Folder Application/helpers}}{33}%
+\contentsline {figure}{\numberline {2.26\relax }{\ignorespaces Folder Application/hooks}}{33}%
+\contentsline {figure}{\numberline {2.27\relax }{\ignorespaces Folder Application/config}}{33}%
+\contentsline {figure}{\numberline {2.28\relax }{\ignorespaces Folder Application/libraries}}{34}%
+\contentsline {figure}{\numberline {2.29\relax }{\ignorespaces Folder Application/logs}}{34}%
+\contentsline {figure}{\numberline {2.30\relax }{\ignorespaces Folder Application/model}}{34}%
+\contentsline {figure}{\numberline {2.31\relax }{\ignorespaces Folder Application/third\_ party}}{34}%
+\contentsline {figure}{\numberline {2.32\relax }{\ignorespaces Folder Application/views}}{35}%
+\contentsline {figure}{\numberline {2.33\relax }{\ignorespaces Folder System/}}{36}%
+\contentsline {figure}{\numberline {2.34\relax }{\ignorespaces Folder User\_ guide/}}{37}%
+\contentsline {figure}{\numberline {2.35\relax }{\ignorespaces File .editorconfig}}{38}%
+\contentsline {figure}{\numberline {2.36\relax }{\ignorespaces File .gitignore}}{38}%
+\contentsline {figure}{\numberline {2.37\relax }{\ignorespaces File composer.json}}{38}%
+\contentsline {figure}{\numberline {2.38\relax }{\ignorespaces File constributing.md}}{38}%
+\contentsline {figure}{\numberline {2.39\relax }{\ignorespaces File index.php}}{39}%
+\contentsline {figure}{\numberline {2.40\relax }{\ignorespaces File license.txt}}{39}%
+\contentsline {figure}{\numberline {2.41\relax }{\ignorespaces File Readme.rst}}{39}%
+\contentsline {figure}{\numberline {2.42\relax }{\ignorespaces folder application/config}}{40}%
+\contentsline {figure}{\numberline {2.43\relax }{\ignorespaces autoload.php}}{41}%
+\contentsline {figure}{\numberline {2.44\relax }{\ignorespaces autoload.php> libraries}}{41}%
+\contentsline {figure}{\numberline {2.45\relax }{\ignorespaces autoload.php> libraries hasil}}{41}%
+\contentsline {figure}{\numberline {2.46\relax }{\ignorespaces autoload.php> helper}}{42}%
+\contentsline {figure}{\numberline {2.47\relax }{\ignorespaces autoload.php> helper hasil}}{42}%
+\contentsline {figure}{\numberline {2.48\relax }{\ignorespaces autoload.php> base\_ url}}{42}%
+\contentsline {figure}{\numberline {2.49\relax }{\ignorespaces autoload.php> base\_ url hasil}}{42}%
+\contentsline {figure}{\numberline {2.50\relax }{\ignorespaces database.php}}{43}%
+\contentsline {figure}{\numberline {2.51\relax }{\ignorespaces database.php> default}}{43}%
+\contentsline {figure}{\numberline {2.52\relax }{\ignorespaces database.php> default hasil}}{44}%
+\contentsline {figure}{\numberline {2.53\relax }{\ignorespaces API}}{44}%
+\contentsline {figure}{\numberline {2.54\relax }{\ignorespaces Gambar usecase diagram}}{46}%
+\contentsline {figure}{\numberline {2.55\relax }{\ignorespaces Gambar class diagram}}{46}%
+\contentsline {figure}{\numberline {2.56\relax }{\ignorespaces Gambar sequence diagram}}{47}%
+\contentsline {figure}{\numberline {2.57\relax }{\ignorespaces Gambar activity diagram}}{48}%
+\contentsline {figure}{\numberline {2.58\relax }{\ignorespaces Gambaran Database}}{48}%
+\contentsline {figure}{\numberline {2.59\relax }{\ignorespaces Gambaran Database 2}}{49}%
+\contentsline {figure}{\numberline {2.60\relax }{\ignorespaces Gambar css}}{52}%
+\contentsline {figure}{\numberline {2.61\relax }{\ignorespaces Pilih yang dibutuhkan}}{53}%
+\contentsline {figure}{\numberline {2.62\relax }{\ignorespaces Pop Up}}{53}%
+\contentsline {figure}{\numberline {2.63\relax }{\ignorespaces Tampilan awal}}{54}%
+\contentsline {figure}{\numberline {2.64\relax }{\ignorespaces Pemilihan Komponen}}{54}%
+\contentsline {figure}{\numberline {2.65\relax }{\ignorespaces Pemilihan Directory}}{55}%
+\contentsline {figure}{\numberline {2.66\relax }{\ignorespaces Persiapan}}{55}%
+\contentsline {figure}{\numberline {2.67\relax }{\ignorespaces Siap untuk diinstal}}{56}%
+\contentsline {figure}{\numberline {2.68\relax }{\ignorespaces Penginstalan sedang berlangsung}}{56}%
+\contentsline {figure}{\numberline {2.69\relax }{\ignorespaces Mencari xampp}}{57}%
+\contentsline {figure}{\numberline {2.70\relax }{\ignorespaces Menjalankan XAMPP}}{57}%
+\contentsline {figure}{\numberline {2.71\relax }{\ignorespaces XAMPP sedang berjalan}}{58}%
+\contentsline {figure}{\numberline {2.72\relax }{\ignorespaces Mencoba XAMPP}}{58}%
+\contentsline {figure}{\numberline {2.73\relax }{\ignorespaces Website Sublime}}{59}%
+\contentsline {figure}{\numberline {2.74\relax }{\ignorespaces Sublime Installer}}{59}%
+\contentsline {figure}{\numberline {2.75\relax }{\ignorespaces Sublime Installer}}{60}%
+\contentsline {figure}{\numberline {2.76\relax }{\ignorespaces Pemilihan Directory}}{60}%
+\contentsline {figure}{\numberline {2.77\relax }{\ignorespaces Pemilihan Task Tambahan}}{61}%
+\contentsline {figure}{\numberline {2.78\relax }{\ignorespaces Pemrsiapan install}}{61}%
+\contentsline {figure}{\numberline {2.79\relax }{\ignorespaces Proses Intalasi berhasil}}{62}%
+\contentsline {figure}{\numberline {2.80\relax }{\ignorespaces Tampak tampilan awal}}{62}%
+\contentsline {figure}{\numberline {2.81\relax }{\ignorespaces Website Visual Studio Code}}{63}%
+\contentsline {figure}{\numberline {2.82\relax }{\ignorespaces Syrat dan Ketentuan}}{63}%
+\contentsline {figure}{\numberline {2.83\relax }{\ignorespaces Pemilihan Directory}}{64}%
+\contentsline {figure}{\numberline {2.84\relax }{\ignorespaces Persiapan Instalasi}}{64}%
+\contentsline {figure}{\numberline {2.85\relax }{\ignorespaces Proses Instalasi}}{65}%
+\contentsline {figure}{\numberline {2.86\relax }{\ignorespaces Proses Instalasi}}{65}%
+\contentsline {figure}{\numberline {2.87\relax }{\ignorespaces Tampak Antar muka}}{66}%
+\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces Gambar Prosedur yang sedang berjalan}}{68}%
+\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces Gambar Prosedur yang akan berjalan}}{69}%
+\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces Gambar Prosedur login}}{70}%
+\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces Gambar Usecase diagram}}{72}%
+\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces Gambar Skenario Usecase}}{73}%
+\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces Gambar Skenario Kelola data user}}{74}%
+\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces Gambar Skenario Kelola sampah}}{74}%
+\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces Gambar Skenario menabung sampah}}{75}%
+\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces Gambar Skenario pengambilan sampah}}{75}%
+\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces Gambar Class Diagram}}{76}%
+\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces Gambar Sequence Diagram Kelola Login}}{76}%
+\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces Gambar Sequence Diagram Kelola User}}{77}%
+\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces Gambar Sequence Menabung Sampah}}{77}%
+\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces Gambar Sequence Diagram Kelola Data Sampah}}{78}%
+\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces Gambar Sequence Diagram Pengambilan Sampah}}{78}%
+\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces Gambar Activity Diagram Kelola Login}}{79}%
+\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces Gambar Activity Diagram Kelola Login}}{80}%
+\contentsline {figure}{\numberline {3.18\relax }{\ignorespaces Gambar Activity Diagram Kelola Data User}}{81}%
+\contentsline {figure}{\numberline {3.19\relax }{\ignorespaces Gambar Activity Diagram Menabung Sampah}}{81}%
+\contentsline {figure}{\numberline {3.20\relax }{\ignorespaces Gambar Activity Diagram Pengambilan Sampah}}{82}%
+\contentsline {figure}{\numberline {3.21\relax }{\ignorespaces Gambar Deployment Diagram}}{83}%
+\contentsline {figure}{\numberline {3.22\relax }{\ignorespaces Gambar Struktur Diagram}}{83}%
+\contentsline {figure}{\numberline {3.23\relax }{\ignorespaces Gambar Page Registrasi}}{84}%
+\contentsline {figure}{\numberline {3.24\relax }{\ignorespaces Gambar Page Login}}{84}%
+\contentsline {figure}{\numberline {3.25\relax }{\ignorespaces Gambar Page Role}}{85}%
+\contentsline {figure}{\numberline {3.26\relax }{\ignorespaces Gambar Page Aktivasi Nasabah}}{86}%
+\contentsline {figure}{\numberline {3.27\relax }{\ignorespaces Gambar Page Input Sampah}}{86}%
+\contentsline {figure}{\numberline {3.28\relax }{\ignorespaces Gambar Page Jemput Sampah}}{87}%
+\contentsline {figure}{\numberline {3.29\relax }{\ignorespaces Gambar Page Histori Penjemputan}}{87}%
+\contentsline {figure}{\numberline {3.30\relax }{\ignorespaces Gambar Page Menu Management}}{88}%
+\contentsline {figure}{\numberline {3.31\relax }{\ignorespaces Gambar Page Sub Menu Management}}{89}%
+\contentsline {figure}{\numberline {3.32\relax }{\ignorespaces Gambar Page Harga Sampah}}{89}%
+\contentsline {figure}{\numberline {3.33\relax }{\ignorespaces Gambar Page Cek Saldo}}{90}%
+\contentsline {figure}{\numberline {3.34\relax }{\ignorespaces Gambar Page Meminta Penjemputan Sampah}}{91}%
+\contentsline {figure}{\numberline {3.35\relax }{\ignorespaces Gambar Page Pengambilan Sampah}}{91}%
+\contentsline {figure}{\numberline {3.36\relax }{\ignorespaces Gambar Page Histori Pengambilan}}{92}%
+\contentsline {figure}{\numberline {3.37\relax }{\ignorespaces Gambar Page Home}}{93}%
+\contentsline {figure}{\numberline {3.38\relax }{\ignorespaces Gambar Page Home-2}}{94}%
+\contentsline {figure}{\numberline {3.39\relax }{\ignorespaces Gambar Page Home-3(Tentang)}}{95}%
+\contentsline {figure}{\numberline {3.40\relax }{\ignorespaces Gambar Page Login}}{96}%
+\contentsline {figure}{\numberline {3.41\relax }{\ignorespaces Gambar Page Profile}}{97}%
+\contentsline {figure}{\numberline {3.42\relax }{\ignorespaces Gambar Page Tabungan}}{98}%

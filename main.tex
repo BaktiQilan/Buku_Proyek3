@@ -22,10 +22,13 @@
 %\documentclass{wileySev}
 
 % 6x9
-\documentclass{wileySix}
 
+\documentclass{wileysix}
+\UseRawInputEncoding
 \usepackage{graphicx}
 \usepackage{listings}
+\usepackage{gensymb}
+\usepackage{float}
 
 \usepackage{color}
  
@@ -128,16 +131,17 @@
 \begin{document}
 
 
-\booktitle{Panduan Cerdas Mengenal Aplikasi Bank Sampah}
-\subtitle{Berbasis Web serta terdapat UI Android}
+\booktitle{Pembuatan Aplikasi Bank Sampah}
+\subtitle{berbasis web serta webview pada android}
 
-\authors{Arrizal Furqona Gifary dan Bakti Qilan Mufid\\
-\affil{Informatics Research Center}
+\authors{Nisa Hanum Harani, S.Kom., M.T.\\ Arrizal Furqona Gifary.\\ Bakti Qilan Mufid.\\
+\affil{D4 Teknik Informatika, Politeknik Pos Indonesia}
 %Floyd J. Fowler, Jr.\\
 %\affil{University of New Mexico}
 }
 
-\offprintinfo{Panduan Cerdas Mengenal Aplikasi Bank Sampah}{Arrizal Furqona Gifary dan Bakti Qilan Mufid}
+\offprintinfo{Project Android Simpel, First Edition}{Nisa Hanum Harani, S.Kom., M.T., Arrizal Furqona Gifary., \& Bakti Qilan Mufid.}
+
 %% Can use \\ if title, and edition are too wide, ie,
 %% \offprintinfo{Survey Methodology,\\ Second Edition}{Robert M. Groves}
 
@@ -148,7 +152,7 @@
 \titlepage
 
 
-\begin{copyrightpage}{2019}
+\begin{copyrightpage}{2020}
 \input{info/copyrightpage}
 \end{copyrightpage}
 
@@ -198,24 +202,17 @@ Maka kamu harus sanggup menahan perihnya Kebodohan.'
 
 %%%%%%%%%%%%%%%%%%Isi Buku_
 
-\chapter{Pendahuluan}
+\chapter{Bank Sampah}
 \input{chapters/1}
 
-\chapter{Judul Bagian Kedua}
+\chapter{Pengenalan}
 \input{chapters/2}
 
-\chapter{Notasi Matematika Pada Latex}
+\chapter{Perancangan}
 \input{chapters/3}
 
-
-\chapter{Sistematika Dokumen}
+\chapter{Pengkodean}
 \input{chapters/4}
-
-
-\chapter{Referens Pada Latex}
-\input{chapters/5}
-
-
 
 \bibliographystyle{IEEEtran} 
 %\def\bibfont{\normalsize}
@@ -278,4 +275,5 @@ Maka kamu harus sanggup menahan perihnya Kebodohan.'
 %% \multiprintindex{authors}{Author index}
 
 \end{document}
+
 
